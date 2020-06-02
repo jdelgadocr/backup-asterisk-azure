@@ -2,7 +2,7 @@
 Simple script to make a simple backup of Asterisk folders and upload them to an Azure blob storage.
 Please note this script doesn't include the web server files. Modify it to your needs.
 
-Preparation:
+Preparation:  
 1-Install rclone:  
 as root:  
 curl https://rclone.org/install.sh | bash  
